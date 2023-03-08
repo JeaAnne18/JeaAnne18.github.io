@@ -10,8 +10,13 @@ body{
 	background-size: cover;
 }
 
-label {
-	display: inline-block;
-	margin-top: 1em;
 
+.textField {
+    text-align: center;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
