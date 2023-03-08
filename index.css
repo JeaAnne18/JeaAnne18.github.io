@@ -16,6 +16,7 @@ body{
     margin-top: 25px;
     margin-bottom: 25px;
     font-weight: bold;
+    font-size: 20px;
 }
 
 img {
@@ -40,9 +41,7 @@ fieldset {
 	fieldset {
 		width: 45%;
 		min-width: 430px;
-        margin-top: .5px;
-        margin-left: auto;
-        margin-right: auto;
+		margin: auto;
 	}
 
 
