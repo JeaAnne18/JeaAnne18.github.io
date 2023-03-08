@@ -32,3 +32,15 @@ fieldset {
 	min-width: 200px
 
 }
+
+@media screen and (min-width: 430px) {
+	
+
+	fieldset {
+		width: 45%;
+		min-width: 430px;
+		margin: auto;
+	}
+
+
+}
